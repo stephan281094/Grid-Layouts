@@ -1,0 +1,20 @@
+.container {
+  display: grid;
+}
+
+.container.first {
+  grid-template-rows: auto;
+  grid-template-columns: repeat(4, 25%);
+
+  @media #{$medium} {
+    grid-template-columns: repeat(3, calc(100% / 3));
+  }
+
+  @media #{$small} {
+    grid-template-columns: repeat(2, 50%);
+  }
+
+  @media #{$extra-small} {
+    grid-template-columns: repeat(1, 100%);
+  }
+}
