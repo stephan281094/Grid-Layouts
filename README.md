@@ -23,6 +23,7 @@ unless you use a [polyfill](https://github.com/FremyCompany/css-grid-polyfill).
 ## Installation
 [Meteor](http://meteor.com) is used to allow for faster developing. In order to
 run this website locally you need to do the following steps:
+
 1. [Install meteor](https://www.meteor.com/install) if you haven't already
 2. Run `meteor` when located in this project
-3. Open your browser at http://localhost:3000
+3. Open your browser at [http://localhost:3000](http://localhost:3000)
