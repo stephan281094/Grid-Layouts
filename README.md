@@ -1,7 +1,9 @@
 # Grid-Layouts
 
 Experimenting with CSS Grid Layouts. Inspired by
-[this article](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a)
+[this article](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a).
+See the demo [here](http://grid-layout.meteor.com) (only works in Chrome with
+flags on, see [how](#how)).
 
 ## What
 This repository has been created to experiment with the new
