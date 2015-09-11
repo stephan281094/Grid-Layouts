@@ -16,10 +16,8 @@ body {
   font-weight: 200;
 }
 
-.container {
-  .item {
-    min-height: 250px;
-    text-align: center;
-    line-height: 250px;
-  }
+.container .item {
+  min-height: 250px;
+  text-align: center;
+  line-height: 250px;
 }
