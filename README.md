@@ -5,6 +5,9 @@ Experimenting with CSS Grid Layouts. Inspired by
 See the demo [here](http://grid-layout.meteor.com) (only works in Chrome with
 flags on, see [how](#how)).
 
+## Demo
+Click [here](http://inno-grid-layouts.meteor.com/) to see a demo.
+
 ## What
 This repository has been created to experiment with the new
 [CSS spec](http://dev.w3.org/csswg/css-grid-1/) that might change CSS grid
