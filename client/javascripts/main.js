@@ -1,3 +1,3 @@
 Template.body.rendered = function () {
-  placeholder.color('.item');
-};
+  placeholder.color('.item')
+}
