@@ -1,3 +1,3 @@
-Template.body.rendered = function () {
+Template.body.rendered = () => {
   placeholder.color('.item')
 }
