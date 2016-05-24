@@ -7,7 +7,6 @@
 autopublish
 insecure
 fourseven:scss
-standard-minifiers
 meteor-base
 mobile-experience
 mongo
@@ -22,3 +21,5 @@ ejson
 spacebars
 check
 ecmascript
+standard-minifier-css
+standard-minifier-js
